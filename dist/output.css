@@ -522,6 +522,23 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
+.h-32 {
+  height: 8rem;
+}
+
+.w-full {
+  width: 100%;
+}
+
+.bg-amber-600 {
+  --tw-bg-opacity: 1;
+  background-color: rgb(217 119 6 / var(--tw-bg-opacity));
+}
+
+.text-center {
+  text-align: center;
+}
+
 .text-9xl {
   font-size: 8rem;
   line-height: 1;
